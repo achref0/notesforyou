@@ -5,7 +5,7 @@ A website that allows users to login and signup to access their account, create 
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/username/note-taking-website.git
+git clone https://github.com/username/notesforyou.git
 
 2. Install the required packages using pip:
 pip install -r requirements.txt
